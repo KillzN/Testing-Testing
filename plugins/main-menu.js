@@ -1,6 +1,6 @@
 let handler = async (m, { isPrems, conn }) => {
    m.react('👾')
-   let img = 'https://ibb.co/Xx4J5Dvq/avatar-contact.jpg'
+   let img = 'https://i.ibb.co/zhrknM6F/avatar-contact.jpg'
    let texto = `
 🪙 𝐌 𝐔 𝐋 𝐓 𝐈 - 𝐌 𝐄 𝐍 𝐔́ 
 
@@ -387,7 +387,7 @@ let handler = async (m, { isPrems, conn }) => {
 ┃⋗ 📝 *.unreg*  
 ┗━━━━━━━━━━━━━━┛
 
-> @alexnsnk7`
+> @𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔`
 
    const fkontak = {
       "key": {

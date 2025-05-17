@@ -14,7 +14,7 @@ let handler = async (m, { conn, text }) => {
     let limit = poin
     let imt = Math.ceil(poin * impuesto)
     limit += imt
-    if (limit < 1) throw '🚩 Mínimo es *1 🪙 Dulce*.'
+    if (limit < 1) throw '🚩 Mínimo es *1 🪙 Cred*.'
     let users = global.db.data.users
     if (limit > users[m.sender].limit) throw 'No tienes suficientes *🪙 Creds* para dar.'
     users[m.sender].limit -= limit

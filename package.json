@@ -1,5 +1,5 @@
 {
-    "name": "Alexnn",
+    "name": "Mvrco",
     "version": "2.0.7",
     "description": "Simple WhatsApp Bot Multi Device",
     "main": "index.js",
@@ -18,20 +18,19 @@
         "eslint": "eslint .",
         "eslintfix": "eslint --fix ."
     },
-    "homepage": "https://github.com/Adrianmaze/Alexnn",
+    "homepage": "https://github.com/Adrianmaze/Mvrco",
     "author": {
-        "name": "Alexnn"
+        "name": "Mvrco"
     },
     "collaborators": {
-        "col1": "@Alexnn",
-        "col2": "@Anuar"
+        "col1": "@ineffable.mvrco"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Adrianmaze/Alexnn.git"
+        "url": "git+https://github.com/Adrianmaze/Mvrco.git"
     },
     "bugs": {
-        "url": "https://github.com/Adrianmaze/Alexnn/issues"
+        "url": "https://github.com/Adrianmaze/Mvrco/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
